@@ -1,6 +1,8 @@
 ![small-robot](imgs/small_robot.gif)
 
-# Some title
+# Welcome to my Github!
+
+Im a Roboticist specialising in all things ML, Data Science, and Mechatronics. Check out my repos 🙂
 
 <!---
 - 👋 Hi, I’m @Alexis-Georganopoulos
