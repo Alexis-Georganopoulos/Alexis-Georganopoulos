@@ -4,6 +4,17 @@
 
 Im a Roboticist specialising in all things ML, Data Science, and Mechatronics. Check out my repos 🙂
 
+Currently expanding my skillset, always looking for great learning opportunities. Some of my favourites include:
+
+- Deep Learning
+- Computer Vision
+- NLP
+- Forward/Backward Kinematics
+- Optimisation algorithms for control systems
+- Software developement with tight hardware requirements
+
+Lets make cheap robots a reality! 🤖🤖🤖
+
 <!---
 - 👋 Hi, I’m @Alexis-Georganopoulos
 - 👀 I’m interested in ...
