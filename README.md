@@ -12,6 +12,7 @@ Currently expanding my skillset, always looking for great learning opportunities
 - Forward/Backward Kinematics
 - Optimisation algorithms for control systems
 - Software developement with tight hardware requirements
+- Signal processing
 
 Lets make cheap robots a reality! 🤖🤖🤖
 
