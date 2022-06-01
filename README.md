@@ -11,6 +11,8 @@ Currently expanding my skillset, always looking for great learning opportunities
 - NLP
 - Forward/Backward Kinematics
 - Optimisation algorithms for control systems
+- Map planning/ Localisation algorithms(SLAM)
+- Sensor fusion
 - Software developement with tight hardware requirements
 - Signal processing
 
