@@ -2,7 +2,7 @@
 
 # Welcome to my Github!
 
-Im a Roboticist specialising in all things ML, Data Science, and Mechatronics. Check out my repos 🙂
+Im a Roboticist specialising in all things Robotics, ML, and Mechatronics. Check out my repos 🙂
 
 Currently expanding my skillset, always looking for great learning opportunities. Some of my favourites include:
 
@@ -14,7 +14,6 @@ Currently expanding my skillset, always looking for great learning opportunities
 - Map planning/ Localisation algorithms(SLAM)
 - Sensor fusion
 - Software developement with tight hardware requirements
-- Signal processing
 
 Lets make cheap robots a reality! 🤖🤖🤖
 
